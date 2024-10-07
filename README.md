@@ -98,7 +98,7 @@ Want to make the app even cooler? Feel free to contribute! Fork the repo, create
 
 ## 📧 **Contact**
 
-Got questions? Feel free to drop me an email at [your-email@example.com](mailto:ramanarayanransingh@gmail.com). Or just open an issue on GitHub – I’ve got your back!
+Got questions? Feel free to drop me an email at [ramanarayanransingh@gmail.com](mailto:ramanarayanransingh@gmail.com). Or just open an issue on GitHub – I’ve got your back!
 
 ---
 
