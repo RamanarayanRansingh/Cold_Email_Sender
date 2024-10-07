@@ -11,7 +11,7 @@ class Portfolio:
 
     def load_portfolio(self):
         """Load portfolio data and populate vector database."""
-        df = pd.read_csv('resource/my_portfolio.csv')
+        df = pd.read_csv('ColdEmailGenerator/app/resource/my_portfolio.csv')
         self.collection = self.client.get_or_create_collection(name="portfolio")
         if not self.collection.count():
             logging.info("Populating vector database...")

@@ -25,7 +25,7 @@ def authenticate_gmail():
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
-            flow = InstalledAppFlow.from_client_secrets_file('resource/credentials.json', SCOPES)
+            flow = InstalledAppFlow.from_client_secrets_file('ColdEmailGenerator/app/resource/credentials.json', SCOPES)
             creds = flow.run_local_server(port=0)
         
         # Save the credentials for future runs
