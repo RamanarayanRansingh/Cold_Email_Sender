@@ -1,4 +1,4 @@
-# 🚀 LLM-Powered Cold Email Generator: Your AI Hiring Wingman! 🤖✉️
+# ✉️ LLM-Powered Cold Email Generator: Your AI Hiring Wingman! 🤖
 
 ![Cold Email Generator Banner](Images/first.png)
 
